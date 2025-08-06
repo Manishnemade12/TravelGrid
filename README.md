@@ -1,5 +1,5 @@
 
-# TravelGrid [Live Demo](https://travel-grid.vercel.app/)
+# TravelGrid [Live Demo](https://travel-grid.vercel.app/).
 
 **Note**: This repository is dedicated to contributors of **GirlScript Summer of Code 2025 (GSSoC'25)**.
 
